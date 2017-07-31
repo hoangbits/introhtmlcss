@@ -1,5 +1,5 @@
 .app {
-  display: -webkit-flex;
+  display: -webkit-flex; /*in order to support safari*/
   display: flex;
 }
 .screenshot {
